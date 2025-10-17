@@ -4,3 +4,5 @@ pydantic==2.9.2
 httpx==0.27.2
 python-dotenv==1.0.1
 alpaca-py==0.31.0
+httpx==0.27.2
+playwright==1.46.0
